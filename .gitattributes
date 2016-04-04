@@ -39,6 +39,7 @@ tomcat-7.0.62/bin/tomcat-native.tar.gz -text
 tomcat-7.0.62/bin/tool-wrapper.sh -text
 tomcat-7.0.62/bin/version.sh -text
 tomcat-7.0.62/conf/Catalina/localhost/ROOT.xml -text
+tomcat-7.0.62/conf/EmailTemplates.properties -text
 tomcat-7.0.62/conf/catalina.policy -text
 tomcat-7.0.62/conf/catalina.properties -text
 tomcat-7.0.62/conf/context.xml -text
