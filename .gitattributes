@@ -65,7 +65,6 @@ tomcat-7.0.62/lib/ext/jta.jar -text
 tomcat-7.0.62/lib/ext/jtds.jar -text
 tomcat-7.0.62/lib/ext/junit.jar -text
 tomcat-7.0.62/lib/ext/jutf7.jar -text
-tomcat-7.0.62/lib/ext/mail.jar -text
 tomcat-7.0.62/lib/ext/mysql.jar -text
 tomcat-7.0.62/lib/ext/persistence.jar -text
 tomcat-7.0.62/lib/ext/portal-service.jar -text
