@@ -12,7 +12,6 @@ distro/changelog.xml -text
 distro/descriptor.xml -text
 gCube/keys/howto.txt -text
 gCube/lib/_misc/gwt-fix-2.5.1-gxt2.jar -text
-gCube/lib/_resource-registry/property-files/nonupdatescopes.properties -text
 license/copyright.txt -text
 license/versions.html -text
 /pom.xml -text
