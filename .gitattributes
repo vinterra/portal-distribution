@@ -85,6 +85,7 @@ tomcat-7.0.62/lib/tomcat-util.jar -text
 tomcat-7.0.62/lib/tomcat7-websocket.jar -text
 tomcat-7.0.62/lib/websocket-api.jar -text
 tomcat-7.0.62/portal-log4j.properties -text
+tomcat-7.0.62/portal-logback.xml -text
 tomcat-7.0.62/webapps/ROOT/WEB-INF/classes/META-INF/MANIFEST.MF -text
 tomcat-7.0.62/webapps/ROOT/WEB-INF/classes/log4j.properties -text
 tomcat-7.0.62/webapps/ROOT/WEB-INF/classes/logging.properties -text
