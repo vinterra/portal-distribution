@@ -17,13 +17,13 @@ Authors
 -------
 
  
-Massimiliano Assante (massimiliano.assante-AT-isti.cnr.it), Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo" - CNR, Pisa (Italy).
+Massimiliano Assante (massimiliano-DOT-assante-AT-isti-DOT-cnr-DOT-it), Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo" - CNR, Pisa (Italy).
 
 
 Maintainers
 -----------
  
-Massimiliano Assante (massimiliano.assante-AT-isti.cnr.it), Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo" - CNR, Pisa (Italy).
+Massimiliano Assante (massimiliano-DOT-assante-AT-isti-DOT-cnr-DOT-it), Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo" - CNR, Pisa (Italy).
  
  
 Documentation
@@ -31,7 +31,7 @@ Documentation
 
 Documentation is available on - line from the Projects Documentation wiki:
 
- {gcube.wikiRoot}/gcube/index.php/UserManagement_Core
+ {gcube.wikiRoot}/UserManagement_Core
 
 
 Support 
